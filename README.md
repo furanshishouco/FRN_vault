@@ -1,4 +1,4 @@
-### This is a vault for many items. Many useful, many not.
+### This is a vault for many items. Some useful, some not.
 
 ## All is in WIP status
 
